@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< Updated upstream:Marstopia.uproject
 	"EngineAssociation": "5.0",
+=======
+	"EngineAssociation": "5.3",
+>>>>>>> Stashed changes:Playstation.uproject
 	"Category": "",
 	"Description": "",
 	"Plugins": [
